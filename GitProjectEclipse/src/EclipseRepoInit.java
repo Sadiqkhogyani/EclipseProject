@@ -7,6 +7,11 @@ public class EclipseRepoInit {
 		
 		
 	}
+	
+	public void method() {
+		
+		
+	}
 
 	
 }
